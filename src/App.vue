@@ -1,10 +1,8 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png" />
-    <div>
-      <el-button>el-button</el-button>
-    </div>
-    <h3>HelloWorld del</h3>
+    <router-link to="/">Home | </router-link>
+    <router-link to="/about">about</router-link>
+    <router-view></router-view>
   </div>
 </template>
 
@@ -25,5 +23,14 @@ export default {
   margin-top: 60px;
   margin-left: 5px;
   margin-bottom: 5px;
+}
+a {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+a:active {
+  color: aqua;
 }
 </style>

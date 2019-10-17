@@ -4,6 +4,7 @@
     <div>
       <el-button>el-button</el-button>
     </div>
+    <h3>test</h3>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>

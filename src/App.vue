@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-link to="/">Home | </router-link>
+    <router-link to="/">Dev | </router-link>
     <router-link to="/about">about</router-link>
     <router-view></router-view>
   </div>

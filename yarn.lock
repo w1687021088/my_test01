@@ -945,6 +945,11 @@
     mocha "^6.1.4"
     mochapack "^1.1.1"
 
+"@vue/cli-plugin-vuex@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-vuex/download/@vue/cli-plugin-vuex-4.0.1.tgz#dd3e1a5e5b0c023350c0a767b4641ab61235132f"
+  integrity sha1-3T4aXlsMAjNQwKdntGQathI1Ey8=
+
 "@vue/cli-service@^4.0.0":
   version "4.0.0"
   resolved "https://registry.npm.taobao.org/@vue/cli-service/download/@vue/cli-service-4.0.0.tgz#8b8502840fd3b12ed3659b705ba2285df2300e3e"
@@ -8568,6 +8573,11 @@ vue@^2.6.10:
   version "2.6.10"
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha1-pysaQqTYKnIepDjRtr9V5mGVxjc=
+
+vuex@^3.0.1:
+  version "3.1.1"
+  resolved "https://registry.npm.taobao.org/vuex/download/vuex-3.1.1.tgz#0c264bfe30cdbccf96ab9db3177d211828a5910e"
+  integrity sha1-DCZL/jDNvM+Wq52zF30hGCilkQ4=
 
 w3c-hr-time@^1.0.1:
   version "1.0.1"

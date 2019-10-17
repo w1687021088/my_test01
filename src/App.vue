@@ -4,19 +4,14 @@
     <div>
       <el-button>el-button</el-button>
     </div>
-    <h3>test</h3>
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <h3>HelloWorld del</h3>
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
-  name: "app",
-  components: {
-    HelloWorld
-  }
+  name: "app"
 };
 </script>
 

@@ -24,5 +24,6 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
   margin-left: 5px;
+  margin-bottom: 5px;
 }
 </style>
